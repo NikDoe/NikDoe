@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/fa28115a-c79e-4ef2-a9c6-8374110099a9/project/63d46659-0046-441d-8c05-6a21e6a3d2a1.svg)](https://wakatime.com/badge/user/fa28115a-c79e-4ef2-a9c6-8374110099a9/project/63d46659-0046-441d-8c05-6a21e6a3d2a1)
