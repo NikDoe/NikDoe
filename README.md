@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML   43 mins         ██████████████████░░░░░░░   71.45 % 
+CSS    17 mins         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
 ```
 <!--END_SECTION:waka-->
