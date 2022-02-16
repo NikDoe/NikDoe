@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
+Total: 0 secs
+
 
 ```
 <!--END_SECTION:waka-->
