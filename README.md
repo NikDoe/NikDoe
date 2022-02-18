@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
