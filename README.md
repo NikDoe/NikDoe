@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       19 hrs 55 mins  ███████████████████░░░░░░   75.51 %
-SCSS             6 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-.env file        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-HTML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript       24 hrs          ███████████████████▓░░░░░   78.75 %
+SCSS             6 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+.env file        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+HTML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
