@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr 4 mins     ████████████████████████▒   97.37 %
+Git          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
