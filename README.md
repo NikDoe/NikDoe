@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 28 mins    ██████████████████████░░░   87.66 %
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-tsconfig     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
