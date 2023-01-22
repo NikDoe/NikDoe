@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   2 hrs 39 mins   ██████████████████████░░░   88.52 %
+JavaScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
