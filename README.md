@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         5 mins          ███████████░░░░░░░░░░░░░░   44.07 %
-Git          3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-Other        2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-Git Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
