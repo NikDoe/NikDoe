@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   6 hrs 49 mins   █████████████████████░░░░   84.44 %
+HTML         1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
