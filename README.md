@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          49 mins         ██████████████████████▓░░   90.25 %
-TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+CSS          6 hrs 49 mins   ███████████████████████░░   92.46 %
+HTML         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
